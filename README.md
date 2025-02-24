@@ -1,5 +1,12 @@
 ## Overview
-This project demonstrates Python functions and classes.
+This project shows Python functions and classes.
+
+## Files Included
+
+- **Assignment 1**
+- **Assignment 2**
+- **Assignment 3**
+- **CV** (Made in GitHub)
 
 ## Functions
 - `product(x, y)`: Returns the product of two numbers.
